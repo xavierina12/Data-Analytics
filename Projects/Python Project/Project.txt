@@ -1,0 +1,14 @@
+HOSPITAL MANAGEMENT SYSTEM
+          DEPARTMENT_NAME   DNo DA      Fees               Timings
+           Outpatient(OPD)   1  5  2000/per/visit           24/7
+     Inpatient_Service(IP)   2  5  1000/per/visit           24/7
+                Psychology   3  5        2000/day        9:00Am-6:00PM
+                Cardiology   4  2   2000(5visit/2weeks)  9:00Am-6:00PM
+                       ENT   5  2   2000(5visit/2weeks)  9:00Am-6:00PM
+          Gastroenterology   6  3   2000(5visit/2weeks)  9:00Am-6:00PM
+                 Nutrition   7  5   2000(5visit/2weeks)  9:00Am-6:00PM
+              Physiotherapy  8  3   2000(5visit/2weeks)  9:00Am-6:00PM
+                Hematology   9  3   2000(5visit/2weeks)  9:00Am-6:00PM
+                 Neurology  10  3   2000(5visit/2weeks)  9:00Am-6:00PM
+
+
