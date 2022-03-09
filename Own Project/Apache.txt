@@ -1,0 +1,11 @@
+#Store the index.html and result.php file in the htdocs folder
+start cmd as administrator
+C:\Apache\Apache24\bin
+httpd start
+#After starting the Apache server
+#Type the following in any browser: localhost/index.html
+#Enter roll numbers from 1 to 5
+#After viewing the information, if you want to stop the server, type the below command
+httpd stop
+
+
