@@ -1,3 +1,0 @@
-Department_Name/Patient_Name/Age/Phone_Number/Home_Address/Time_slot/Appointment_id
-
-Outpatient(OPD)/xavierina/30/123123123/mettuguda/11/3022
