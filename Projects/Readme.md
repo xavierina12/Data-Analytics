@@ -16,6 +16,7 @@ This repository contains all the Projects of data analysis and minor projects, p
 >> * Observed covariance, correlation in the dataset.
 >> 
 >> #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis)
+>> 
 
 
 >2. **E-Commerce Shipping Data Analysis in Python:** Tools: Python 3.10.2, Jupyter Notebook
@@ -24,6 +25,7 @@ This repository contains all the Projects of data analysis and minor projects, p
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs. 
 >>  #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis)
+>>  
 
 ### Minor Projects
 >1. **Random Password Generator in Python:** Tools: Python 3.10.2, Jupyter Notebook
