@@ -11,9 +11,9 @@ This repository contains all the Assignments and Projects of data analysis, pres
 * **Assignments:** The repository contains all the Assignments given by the Edubridge Institute. 
 * **Projects:** The repository contains all the project works done in Microsoft Excel, Python (Jupyter Notebook), R
 ### Analysis Projects
->1. **Sample Superstore Statistical Analysis:**
-*Tools:Microsoft Excel 2019
-..* Analyzed the sales, profit, loss using the data analysis tool of Excel. Performed Descriptive statiscal analysis, F-test, T-test, Annova and created reports through tables, charts and observed covariance, correlation in the dataset.
+>1. **Sample Superstore Statistical Analysis: (Microsoft Excel)**
+* Tools: Microsoft Excel 2019
+* Analyzed the sales, profit, loss using the data analysis tool of Excel. Performed Descriptive statiscal analysis, F-test, T-test, Annova and created reports through tables, charts and observed covariance, correlation in the dataset.
 >2. **E-Commerce Shipping Data Analysis:**
 Tools: Python 3.10.2, Jupyter Notebook
 ### Minor Projects
