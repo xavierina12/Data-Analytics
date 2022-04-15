@@ -14,11 +14,8 @@ This repository contains all the Projects of data analysis and minor projects, p
 >> * Performed descriptive statistical analysis, F-test, T-test and Annova
 >> * Created reports through tables, charts, graphs 
 >> * Observed covariance, correlation in the dataset.
+>> #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis)
 >> 
->>> #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis)
->> 
-
-
 >2. **E-Commerce Shipping Data Analysis in Python:** Tools: Python 3.10.2, Jupyter Notebook
 >> **Objective:** Analyze the Shipping data of an E-commerce company. 
 >> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using pandas, matplotlib, seaborn. 
@@ -26,7 +23,6 @@ This repository contains all the Projects of data analysis and minor projects, p
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs. 
 >>  #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis)
 >>  
-
 ### Minor Projects
 >1. **Random Password Generator in Python:** Tools: Python 3.10.2, Jupyter Notebook
 >> * A simple python project to generate 'n' length random password using Random and String modules. 
