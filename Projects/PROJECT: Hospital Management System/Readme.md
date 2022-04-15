@@ -20,6 +20,6 @@
 * All the appointments will be displayed from a text file using file handling methods.
 
 ### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Hospital%20Management%20System/Hospital%20Management%20System.ipynb)
-### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis/Report.pdf)
+### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Hospital%20Management%20System/Report.pdf)
 
  
