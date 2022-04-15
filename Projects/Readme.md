@@ -15,7 +15,7 @@ This repository contains all the Projects of data analysis and minor projects, p
 >> * Created reports through tables, charts, graphs 
 >> * Observed covariance, correlation in the dataset.
 >> 
->> #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis)
+>>> #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis)
 >> 
 
 
