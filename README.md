@@ -3,16 +3,22 @@ This repository contains all the Assignments and Projects of data analysis, pres
 
 ## Tools
 * Microsoft Excel
-* Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
+* Python 3
+* Jupyter Notebook
 * R
 
 ## Skills
-** Python3, Data Analysis, Data Visualization, Statistics
+** Data Analysis, Data Visualization in Microsoft Excel, Python 3 (Jupyter Notebook)
 
 ## Contents
-* Assignments: The repository contains my work done on the Assignments given by the Edubridge Institute. 
-* Projects: The repository contains all the project works done in Microsoft Excel, Python 3 
-** Project 1: 
+* Assignments: The repository contains all the Assignments given by the Edubridge Institute. 
+* Projects: The repository contains all the project works done in Microsoft Excel, Python 3 (Jupyter Notebook)
+..* Project 1: Sample Superstore Statistical Analysis
+*: Analyzed the sales, profit, loss using the data analysis tool of Excel. Performed F-test, T-test, Annova and created reports through tables, charts.
+Project 2: Random Password Generator
+Hospital Management System
+Calculator
+
 
 ## Connect with me on these platforms:
 * Linkedin:  https://www.linkedin.com/in/xavierina-arokia 
