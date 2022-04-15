@@ -9,7 +9,7 @@ This repository contains all the Projects of data analysis and minor projects, p
 
 ### Analysis Projects
 >1. **Sample Superstore Statistical Analysis (Microsoft Excel):**  Tools: Microsoft Excel 2019
->> **Objective:**  To analyze the Superstore Data
+>> **Objective:** Analyze the Superstore Data
 >> * Analyzed the sales, profit, loss using the data analysis tool of Excel. 
 >> * Performed descriptive statistical analysis, F-test, T-test and Annova
 >> * Created reports through tables, charts, graphs 
@@ -19,7 +19,7 @@ This repository contains all the Projects of data analysis and minor projects, p
 
 
 >2. **E-Commerce Shipping Data Analysis in Python:** Tools: Python 3.10.2, Jupyter Notebook
->> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
+>> * **Objective:** Analyze the Shipping data of an E-commerce company. 
 >> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using pandas, matplotlib, seaborn. 
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs. 
