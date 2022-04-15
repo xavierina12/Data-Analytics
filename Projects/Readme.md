@@ -26,13 +26,14 @@ This repository contains all the Projects of data analysis and minor projects, p
 ### Minor Projects
 >1. **Random Password Generator in Python:** Tools: Python 3.10.2, Jupyter Notebook
 >> * A simple python project to generate 'n' length random password using Random and String modules. 
->> 
+>> #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Random%20Password%20Generator)
 >2. **Hospital Management System in Python:** Tools: Python 3.10.2, Jupyter Notebook
 >> * The project has been designed in python to display the information regarding the doctor’s availability, fees, timings of 10 different departments of a hospital. 
 >> * The admin can book an appointment for the patient.
 >> * The user can also view the appointment details. 
->> 
+>> #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Hospital%20Management%20System)
 >3. **Calculator in Python:** Tools: Python 3.10.2, Jupyter Notebook
 >> * A simple Calculator using the tkinter module of Python. 
 >> * Calculates addition, subtraction, multiplication and division of two numbers
+>> #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Calculator)
 
