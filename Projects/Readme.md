@@ -10,7 +10,6 @@ This repository contains all the Projects of data analysis and minor projects, p
 ### Analysis Projects
 >1. **Sample Superstore Statistical Analysis (Microsoft Excel):**  Tools: Microsoft Excel 2019
 >> **Objective:** Analyze the Superstore Data
->> **Tools:**  Microsoft Excel 2019
 >> * Analyzed the sales, profit, loss using the data analysis tool of Excel. 
 >> * Performed descriptive statistical analysis, F-test, T-test and Annova
 >> * Created reports through tables, charts, graphs 
