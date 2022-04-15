@@ -13,4 +13,4 @@ This repository contains all the Assignments and Projects of data analysis, pres
 
 
 ## You can also view my portfolio through the below link
-[https://xavierina12.github.io/html5up-arcana/index.html]
+https://xavierina12.github.io/html5up-arcana/index.html
