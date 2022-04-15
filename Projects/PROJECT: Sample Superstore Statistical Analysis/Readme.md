@@ -7,7 +7,10 @@ Microsoft Excel 2019
 Analysis ToolPak
 ## Tasks
 Task 1: Descriptive Statistics
-* 
+*  Select the columns for Descriptive Statistical Analysis
+*  Select Data tab and then Data Analysis
+*  Now select Descriptive statistics from the menu
+*  Select the input range and output range
 Task 2: Sampling
 Task 3: Covariance and Correlation
 Task 4: Reports
