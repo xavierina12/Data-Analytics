@@ -35,7 +35,6 @@ Analysis ToolPak
 ![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis/Sample%20output4.PNG)
 ![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis/Sample%20Output5.PNG)
 
-> ### [Download the file](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis/Project1-%20Statistical%20Analysis.xlsx)
 
 
 
