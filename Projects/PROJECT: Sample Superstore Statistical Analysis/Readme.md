@@ -6,7 +6,7 @@ Microsoft Excel 2019
 ## Modules
 Analysis ToolPak
 ## Tasks
-###Task 1: Descriptive Statistics
+### Task 1: Descriptive Statistics
 *  Select the columns for Descriptive Statistical Analysis
 *  Select Data tab and Data Analysis
 *  Now select Descriptive statistics from the menu
