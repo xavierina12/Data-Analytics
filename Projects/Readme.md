@@ -1,4 +1,4 @@
-# MY PROJECTS
+# Projects
 This repository contains all the Projects of data analysis and minor projects, presented in the form of Jupyter Notebooks, Excel, R.
 
 ## Tools
