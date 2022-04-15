@@ -14,7 +14,8 @@ This repository contains all the Assignments and Projects of data analysis, pres
 >1. **Sample Superstore Statistical Analysis: (Microsoft Excel)**  Tools: Microsoft Excel 2019 
 >> Analyzed the sales, profit, loss using the data analysis tool of Excel. Performed Descriptive statiscal analysis, F-test, T-test, Annova and created reports through tables, charts and observed covariance, correlation in the dataset.
 >2. **E-Commerce Shipping Data Analysis in Python:** Tools: Python 3.10.2, Jupyter Notebook
->> The main objective of this project is to analyze the Shipping data of an E-commerce company. 
+>> The main objective of this project is to analyze the Shipping data of an E-commerce company. Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using pandas,matplotlib,seaborn. Data was extracted, cleansed, transformed and merged to get information. Data was analyzed through Descriptive statistics functions and visualized through graphs. 
+
 ### Minor Projects
 >1. **Random Password Generator in Python:** Tools: Python 3.10.2, Jupyter Notebook
 >2. **Hospital Management System in Python:** Tools: Python 3.10.2, Jupyter Notebook
