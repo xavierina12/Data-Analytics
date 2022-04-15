@@ -17,7 +17,7 @@ Analysis ToolPak
 * Moving average can be selected from the Data Analysis Tab
 ### Task 3: Covariance and Correlation
 * Covariance and correlation can be selected from the Data Analysis Tab
-* If the covariance, correlation has positive values then the columns have a positive covariance and correlation. 
+* If the covariance, correlation has positive values then the data columns have a positive covariance and correlation. 
 * If the covariance, correlation has negative values then the columns have a negative covariance and correlation. 
 ### Task 4: Reports
 * Data can be easily visualized in Excel through Charts, Bar graphs
