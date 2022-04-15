@@ -8,8 +8,9 @@ This repository contains all the Assignments and Projects of data analysis, pres
 * Data Analysis, Data Visualization in Microsoft Excel, Python (Jupyter Notebook), R
 
 ## Contents
-* **Assignments:** The repository contains all the Assignments given by the Edubridge Institute. 
-* **Projects:** The repository contains all the project works done in Microsoft Excel, Python (Jupyter Notebook), R
+* ### **Assignments:** The repository contains all the Assignments given by the Edubridge Institute. 
+* ### **Projects:** The repository contains all the project works done in Microsoft Excel, Python (Jupyter Notebook), R
+* 
 >1. **Project: Sample Superstore Statistical Analysis:**
 Analyzed the sales, profit, loss using the data analysis tool of Excel. Performed Descriptive statiscal analysis, F-test, T-test, Annova and created reports through tables, charts and observed covariance, correlation in the dataset.
 >2. **Project: Random Password Generator:**
