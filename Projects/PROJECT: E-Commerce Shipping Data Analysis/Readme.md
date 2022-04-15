@@ -6,7 +6,7 @@ Python 3.10.2, Jupyter Notebook
 ## Modules:
 Pandas, Matplotlib, Seaborn
 ## Tasks:
-* ###Task 1: Load the Data and Import Libraries
+* ### Task 1: Load the Data and Import Libraries
 Load the dataset using pandas.
 Import essential modules and helper functions from NumPy and Matplotlib & sklearn.
 Explore the dataframe using the head().
