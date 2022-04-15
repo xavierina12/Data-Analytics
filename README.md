@@ -1,5 +1,5 @@
 # Data-Analytics-Edubridge Institute
-This repository contains all the Assignments and Projects of data analysis, presented in the form of Jupyter Notebooks, Excel.
+This repository contains all the Assignments and Projects of data analysis, presented in the form of Jupyter Notebooks, Excel, R.
 
 ## Tools
 * Microsoft Excel 2019, Python 3.10.2, Jupyter Notebook, R
