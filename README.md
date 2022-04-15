@@ -18,6 +18,7 @@ This repository contains all the Assignments and Projects of data analysis, pres
 
 ### Minor Projects
 >1. **Random Password Generator in Python:** Tools: Python 3.10.2, Jupyter Notebook
+>> A simple python project to generate 'n' length random password using 
 >2. **Hospital Management System in Python:** Tools: Python 3.10.2, Jupyter Notebook
 >3. **Calculator in Python:** Tools: Python 3.10.2, Jupyter Notebook
 
