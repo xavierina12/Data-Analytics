@@ -13,12 +13,12 @@ This repository contains all the Assignments and Projects of data analysis, pres
 ### Analysis Projects
 >1. **Sample Superstore Statistical Analysis: (Microsoft Excel)**  Tools: Microsoft Excel 2019 
 >> * Analyzed the sales, profit, loss using the data analysis tool of Excel. 
->> * Performed Descriptive statiscal analysis, F-test, T-test, Annova and 
->> * Created reports through tables, charts 
+>> * Performed descriptive statistical analysis, F-test, T-test and Annova
+>> * Created reports through tables, charts, graphs 
 >> * Observed covariance, correlation in the dataset.
 >2. **E-Commerce Shipping Data Analysis in Python:** Tools: Python 3.10.2, Jupyter Notebook
 >> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
->> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using pandas,matplotlib,seaborn. 
+>> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using pandas, matplotlib, seaborn. 
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs. 
 
@@ -30,7 +30,8 @@ This repository contains all the Assignments and Projects of data analysis, pres
 >> * The admin can book an appointment for the patient.
 >> * The user can also view the appointment details. 
 >3. **Calculator in Python:** Tools: Python 3.10.2, Jupyter Notebook
->> * A simple python project to calculate addition, subtraction, multiplication and division of two numbers. 
+>> * A simple Calculator using the tkinter module of Python. 
+>> * Calculates addition, subtraction, multiplication and division of two numbers
 
 
 
