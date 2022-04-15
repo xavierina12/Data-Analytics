@@ -18,7 +18,7 @@ This repository contains all the Assignments and Projects of data analysis, pres
 >> * Observed covariance, correlation in the dataset.
 >2. **E-Commerce Shipping Data Analysis in Python:** Tools: Python 3.10.2, Jupyter Notebook
 >> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
->> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using pandas, matplotlib, seaborn. 
+>> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using numpy, pandas, matplotlib, seaborn. 
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs. 
 
