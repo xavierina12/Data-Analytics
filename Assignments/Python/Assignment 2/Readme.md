@@ -1,4 +1,4 @@
-# Assignment
+# Assignment 2
 Solved Case Study based on Open Datasets 
 UCI dataset is a collection of open datasets, available to the public for experimentation and research purposes. ‘auto-mpg’ is one such open dataset. It contains data related to fuel consumption by automobiles in a city. Consumption is measured in miles per gallon (mpg), hence the name of the dataset is auto-mpg. The data has 398 rows (also known as items or instances or objects) and nine columns (also known as attributes). 
 The attributes are: 
