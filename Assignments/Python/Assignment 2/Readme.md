@@ -5,7 +5,8 @@ The attributes are:
 mpg, cylinders, displacement, horsepower, weight, acceleration, model year, origin, car name. 
 Three attributes, cylinders, model year and origin have categorical values, car name is a string with a unique value for every row, while the remaining five attributes have numeric value. 
 The data has been downloaded from the UCI data repository available at http://archive.ics.uci.edu/ ml/machine-learning-databases/auto-mpg/.
- Following are the exercises to analyse the data. 
+
+Following are the exercises to analyse the data. 
 1) Load auto-mpg.data into a DataFrame autodf. 
 2) Give description of the generated DataFrame autodf.
  3) Display the first 10 rows of the DataFrame autodf.
@@ -14,3 +15,5 @@ The data has been downloaded from the UCI data repository available at http://ar
  6) Find the average displacement of the car given the number of cylinders. 
 7) What is the average number of cylinders in a car? 
 8) Determine the no. of cars with weight greater than the average weight
+
+[View the Answers](https://github.com/xavierina12/Data-Analytics/blob/main/Assignments/Python/Assignment%202/carmpg.ipynb)
