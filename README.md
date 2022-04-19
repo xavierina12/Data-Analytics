@@ -37,7 +37,7 @@ This repository contains all the Assignments and Projects of data analysis, pres
 
 ## Connect with me on these platforms:
 * Linkedin: https://www.linkedin.com/in/xavierina-arokia
-* Gmail: [xavierina12@gmail.com](www.gmail.com)
+* Gmail: xavierina12@gmail.com
 
 
 
