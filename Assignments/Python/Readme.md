@@ -1,1 +1,11 @@
-
+# Python Assignments
+## Assignment 1
+https://github.com/xavierina12/Data-Analytics/blob/main/Assignments/Python/Assignment.ipynb
+## Assignment 2
+https://github.com/xavierina12/Data-Analytics/blob/main/Assignments/Python/Assignment1.ipynb
+## Assignment 3
+https://github.com/xavierina12/Data-Analytics/blob/main/Assignments/Python/Assignment%202/carmpg.ipynb
+## Assignment 4
+https://github.com/xavierina12/Data-Analytics/blob/main/Assignments/Python/Assignment%203/Automobile.ipynb
+## Assignment 5
+https://github.com/xavierina12/Data-Analytics/tree/main/Assignments/Python/Assignment%204
