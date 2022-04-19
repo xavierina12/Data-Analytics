@@ -1,6 +1,7 @@
 # Python Assignments
 ## Assignment 1
-https://github.com/xavierina12/Data-Analytics/blob/main/Assignments/Python/Assignment.ipynb
+https://github.com/xavierina12/Data-Analytics/blob/main/Assignments/Python/Assignment%201/Assignment.ipynb
+https://github.com/xavierina12/Data-Analytics/blob/main/Assignments/Python/Assignment%201/Functions.ipynb
 ## Assignment 2
 https://github.com/xavierina12/Data-Analytics/blob/main/Assignments/Python/Assignment1.ipynb
 ## Assignment 3
