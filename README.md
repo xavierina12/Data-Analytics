@@ -16,20 +16,20 @@ This repository contains all the Assignments and Projects of data analysis, pres
 >> * Performed descriptive statistical analysis, F-test, T-test and Annova
 >> * Created reports through tables, charts, graphs 
 >> * Observed covariance, correlation in the dataset.
->2. **E-Commerce Shipping Data Analysis in Python:** Tools: Python 3.10.2, Jupyter Notebook
+>2. [**E-Commerce Shipping Data Analysis in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis) Tools: Python 3.10.2, Jupyter Notebook
 >> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
 >> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using numpy, pandas, matplotlib, seaborn. 
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs. 
 
 ### Minor Projects
->1. **Random Password Generator in Python:** Tools: Python 3.10.2, Jupyter Notebook
+>1. [**Random Password Generator in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Random%20Password%20Generator) Tools: Python 3.10.2, Jupyter Notebook
 >> * A simple python project to generate 'n' length random password using Random and String modules. 
->2. **Hospital Management System in Python:** Tools: Python 3.10.2, Jupyter Notebook
+>2. [**Hospital Management System in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Hospital%20Management%20System) Tools: Python 3.10.2, Jupyter Notebook
 >> * The project has been designed in python to display the information regarding the doctor’s availability, fees, timings of 10 different departments of a hospital. 
 >> * The admin can book an appointment for the patient.
 >> * The user can also view the appointment details. 
->3. **Calculator in Python:** Tools: Python 3.10.2, Jupyter Notebook
+>3. [**Calculator in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Calculator) Tools: Python 3.10.2, Jupyter Notebook
 >> * A simple Calculator using the tkinter module of Python. 
 >> * Calculates addition, subtraction, multiplication and division of two numbers
 
