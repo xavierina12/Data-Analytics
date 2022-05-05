@@ -5,7 +5,7 @@ This repository contains all the Projects of data analysis and minor projects, p
 * Microsoft Excel 2019, Python 3.10.2, Jupyter Notebook, R 4.1.3
 
 ## Skills
-* Data Analysis and Data Visualization in Microsoft Excel, Python (Jupyter Notebook), R
+* Data Analysis and Data Visualization in Microsoft Excel, Python (Jupyter Notebook), R, Machine Learning Algorithms
 
 ### Analysis Projects
 >1. [**Sample Superstore Statistical Analysis (Microsoft Excel):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis)  Tools: Microsoft Excel 2019
