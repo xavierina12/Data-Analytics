@@ -21,6 +21,16 @@ This repository contains all the Assignments and Projects of data analysis, pres
 >> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using numpy, pandas, matplotlib, seaborn. 
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs. 
+>3. [**Telangana Weather Analysis (Jan 2021-March 2022) in R:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis) Tools: Python 3.10.2, Jupyter Notebook
+>> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
+>> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using numpy, pandas, matplotlib, seaborn. 
+>> * Data was extracted, cleansed, transformed and merged to get information. 
+>> * Data was analyzed through Descriptive statistics functions and visualized through graphs.
+>4. [**E-Commerce Shipping Data Analysis in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis) Tools: Python 3.10.2, Jupyter Notebook
+>> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
+>> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using numpy, pandas, matplotlib, seaborn. 
+>> * Data was extracted, cleansed, transformed and merged to get information. 
+>> * Data was analyzed through Descriptive statistics functions and visualized through graphs.
 
 ### Minor Projects
 >1. [**Random Password Generator in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Random%20Password%20Generator) Tools: Python 3.10.2, Jupyter Notebook
