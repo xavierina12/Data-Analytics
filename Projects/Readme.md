@@ -1,5 +1,5 @@
 # Projects
-This repository contains all the Projects of data analysis and minor projects, presented in the form of Jupyter Notebooks, Excel, R.
+This repository contains all the Projects of data analysis and minor projects, presented in the form of Jupyter Notebooks (Python), Excel, R.
 
 ## Tools
 * Microsoft Excel 2019, Python 3.10.2, Jupyter Notebook, R
