@@ -26,7 +26,7 @@ This repository contains all the Assignments and Projects of data analysis, pres
 >> * Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn. 
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs.
->4. [**Telangana Weather Analysis (Jan 2021-March 2022) in R:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Telangana%20Weather%20Analysis%20Jan%202021-March%202022) Tools: R 
+>4. [**Telangana Weather Analysis (Jan 2021-March 2022) in R:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Telangana%20Weather%20Analysis%20Jan%202021-March%202022) Tools: R 4.1.3
 >> * The main objective of this project is to analyze Telangana Weather (Jan 2021-March 2022). 
 >> * Performed Exploratory Data Analysis using the libraries dplyr, sqldf, ggplot2
 >> * Data was extracted, cleansed, transformed and merged to get information. 
