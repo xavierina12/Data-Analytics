@@ -35,7 +35,7 @@ This repository contains all the Projects of data analysis and minor projects, p
 >> * Performed Exploratory Data Analysis using the libraries dplyr, sqldf, ggplot2
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs using ggplot2 library.
->> #### [View the Project]()
+>> #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Telangana%20Weather%20Analysis%20Jan%202021-March%202022)
   
 ### Minor Projects
 >1. **Random Password Generator in Python:** Tools: Python 3.10.2, Jupyter Notebook
