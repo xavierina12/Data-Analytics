@@ -21,16 +21,17 @@ This repository contains all the Assignments and Projects of data analysis, pres
 >> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using numpy, pandas, matplotlib, seaborn. 
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs. 
->3. [**Telangana Weather Analysis (Jan 2021-March 2022) in R:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis) Tools: Python 3.10.2, Jupyter Notebook
->> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
->> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using numpy, pandas, matplotlib, seaborn. 
+>3. [**Telangana Ground Water Level Analysis (Jan 2021-Feb 2022) in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Project:%20Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022) Tools: Python 3.10.2, Jupyter Notebook
+>> * The main objective of this project is to analyze Telangana Ground Water Level (Jan 2021-Feb 2022). 
+>> * Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn. 
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs.
->4. [**E-Commerce Shipping Data Analysis in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis) Tools: Python 3.10.2, Jupyter Notebook
->> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
->> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using numpy, pandas, matplotlib, seaborn. 
+>4. [**Telangana Weather Analysis (Jan 2021-March 2022) in R:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Telangana%20Weather%20Analysis%20Jan%202021-March%202022) Tools: R 
+>> * The main objective of this project is to analyze Telangana Weather (Jan 2021-March 2022). 
+>> * Performed Exploratory Data Analysis using the libraries dplyr, sqldf, ggplot2
 >> * Data was extracted, cleansed, transformed and merged to get information. 
->> * Data was analyzed through Descriptive statistics functions and visualized through graphs.
+>> * Data was analyzed through Descriptive statistics functions and visualized through graphs using ggplot2 library.
+
 
 ### Minor Projects
 >1. [**Random Password Generator in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Random%20Password%20Generator) Tools: Python 3.10.2, Jupyter Notebook
