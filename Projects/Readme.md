@@ -23,6 +23,20 @@ This repository contains all the Projects of data analysis and minor projects, p
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs. 
 >>  #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis)
 >>  
+>3. [**Telangana Ground Water Level Analysis (Jan 2021-Feb 2022) in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Project:%20Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022) Tools: Python 3.10.2, Jupyter Notebook
+>> **Objective:** Analyze Telangana Ground Water Level (Jan 2021-Feb 2022). 
+>> * Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn. 
+>> * Data was extracted, cleansed, transformed and merged to get information. 
+>> * Data was analyzed through Descriptive statistics functions and visualized through graphs.
+>> #### [View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Project:%20Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022)
+>> 
+>4. [**Telangana Weather Analysis (Jan 2021-March 2022) in R:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Telangana%20Weather%20Analysis%20Jan%202021-March%202022) Tools: R 4.1.3
+>> **Objective:** Analyze Telangana Weather (Jan 2021-March 2022). 
+>> * Performed Exploratory Data Analysis using the libraries dplyr, sqldf, ggplot2
+>> * Data was extracted, cleansed, transformed and merged to get information. 
+>> * Data was analyzed through Descriptive statistics functions and visualized through graphs using ggplot2 library.
+>> #### [View the Project]()
+  
 ### Minor Projects
 >1. **Random Password Generator in Python:** Tools: Python 3.10.2, Jupyter Notebook
 >> * A simple python project to generate 'n' length random password using Random and String modules. 
