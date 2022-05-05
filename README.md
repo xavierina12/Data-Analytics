@@ -5,7 +5,7 @@ This repository contains all the Assignments and Projects of data analysis, pres
 * Microsoft Excel 2019, Python 3.10.2, Jupyter Notebook, R 4.1.3
 
 ## Skills
-* Data Analysis, Data Visualization in Microsoft Excel, Python (Jupyter Notebook), R
+* Data Analysis and Data Visualization in Microsoft Excel, Python (Jupyter Notebook), R, Machine Learning Algorithms 
 
 ## Contents
 * **Assignments:** The repository contains all the Assignments given by the Edubridge Institute. 
