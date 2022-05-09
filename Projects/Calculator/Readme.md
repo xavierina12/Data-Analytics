@@ -8,7 +8,7 @@ tkinter
 >[View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Calculator/Calculator.ipynb)
 >
 ### Sample Output
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Calculator/Calculator.PNG)
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Calculator/Calculator.png)
 
 
 
