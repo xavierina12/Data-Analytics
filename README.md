@@ -1,15 +1,6 @@
 # Data-Analytics-Edubridge Institute
-This repository contains all the Assignments and Projects of data analysis, presented in the form of Jupyter Notebooks, Excel, R.
+This repository contains all the Assignments and Projects.
 
-## Tools
-* Microsoft Excel 2019, Python 3.10.2, Jupyter Notebook, R 4.1.3
-
-## Skills
-* Data Analysis and Data Visualization in Microsoft Excel, Python (Jupyter Notebook), R, Machine Learning Algorithms 
-
-## Contents
-* **Assignments:** The repository contains all the Assignments given by the Edubridge Institute. 
-* **Projects:** The repository contains all the project works done in Microsoft Excel, Python (Jupyter Notebook), R
 ### Analysis Projects
 >1. [**Sample Superstore Statistical Analysis (Microsoft Excel):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis)  Tools: Microsoft Excel 2019 
 >> * Analyzed the sales, profit, loss using the data analysis tool of Excel. 
