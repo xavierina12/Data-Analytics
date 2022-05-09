@@ -27,7 +27,7 @@ Python 3.10.2, Jupyter Notebook
 ### Task 6: Data Visualization
 * Data can be easily visualized using matplotlib and seaborn libraries
 * Data was visualized for this dataset through lineplot(), barplot(), catplot(), stripplot(), heatmap()
-### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Project:%20Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022/Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022.ipynb)
-### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Project:%20Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022/Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022.pdf)
+### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022/Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022.ipynb)
+### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022/Report.pdf)
 
 
