@@ -29,11 +29,11 @@ Analysis ToolPak
 * Select the input and output range
 
 ### Sample Output
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis/Sample%20output1.PNG)
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis/Sample%20output2.PNG)
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis/Sample%20output3.PNG)
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis/Sample%20output4.PNG)
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Sample%20Superstore%20Statistical%20Analysis/Sample%20Output5.PNG)
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Superstore%20Statistical%20Analysis/Sample%20output1.png)
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Superstore%20Statistical%20Analysis/Sample%20output2.png)
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Superstore%20Statistical%20Analysis/Sample%20output3.png)
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Superstore%20Statistical%20Analysis/Sample%20output4.png)
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Superstore%20Statistical%20Analysis/Sample%20Output5.png)
 
 
 
