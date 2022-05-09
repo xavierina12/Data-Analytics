@@ -10,4 +10,4 @@ Python 3.10.2, Jupyter Notebook
 * Then we combine the above and store in a temporary variable
 * Based on the length of the password, we combine the values from the temporary variable and the combined list
 * Then we shuffle the list and join using ' '.join() and print the password
->[View Code]()
+>[View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Random%20Password%20Generator/RANDOM%20PASSWORD%20GENERATOR.ipynb)
