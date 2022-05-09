@@ -29,5 +29,5 @@ Numpy, Pandas, Matplotlib, Seaborn
 ### Task 6: Data Visualization
 * Data can be easily visualized using matplotlib and seaborn libraries
 * Data was visualized for this dataset through lineplot(), barplot(), catplot(), stripplot(), heatmap()
-### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis/E-COMMERCE%20SHIPPING%20DATA%20ANALYSIS.ipynb)
-### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20E-Commerce%20Shipping%20Data%20Analysis/Report.pdf)
+### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/E-Commerce%20Shipping%20Data%20Analysis/E-COMMERCE%20SHIPPING%20DATA%20ANALYSIS.ipynb)
+### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/E-Commerce%20Shipping%20Data%20Analysis/Report.pdf)
