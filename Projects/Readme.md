@@ -25,12 +25,12 @@ This repository contains all the Projects.
 
 
 ### Minor Projects
->1. [**Random Password Generator in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Random%20Password%20Generator) Tools: Python 3.10.2, Jupyter Notebook
+>1. [**Random Password Generator (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Random%20Password%20Generator) Tools: Python 3.10.2, Jupyter Notebook
 >> * A simple python project to generate 'n' length random password using Random and String modules. 
->2. [**Hospital Management System in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Hospital%20Management%20System) Tools: Python 3.10.2, Jupyter Notebook
+>2. [**Hospital Management System (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Hospital%20Management%20System) Tools: Python 3.10.2, Jupyter Notebook
 >> * The project has been designed in python to display the information regarding the doctor’s availability, fees, timings of 10 different departments of a hospital. 
 >> * The admin can book an appointment for the patient.
 >> * The user can also view the appointment details. 
->3. [**Calculator in Python:**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Calculator) Tools: Python 3.10.2, Jupyter Notebook
+>3. [**Calculator (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Calculator) Tools: Python 3.10.2, Jupyter Notebook
 >> * A simple Calculator using the tkinter module of Python. 
 >> * Calculates addition, subtraction, multiplication and division of two numbers
