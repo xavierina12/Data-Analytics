@@ -3,8 +3,6 @@
 Analyze the Superstore Data
 ## Tools
 Microsoft Excel 2019
-## Modules
-Analysis ToolPak
 ## Tasks
 ### Task 1: Descriptive Statistics
 *  Select the columns for Descriptive Statistical Analysis
