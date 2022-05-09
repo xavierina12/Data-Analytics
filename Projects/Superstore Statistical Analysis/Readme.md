@@ -1,4 +1,4 @@
-# Sample Superstore Statistical Analysis
+# Superstore Statistical Analysis
 ## Objective
 Analyze the Superstore Data
 ## Tools
