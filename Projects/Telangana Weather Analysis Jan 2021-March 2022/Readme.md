@@ -32,7 +32,7 @@ R 4.1.3
 ### Task 6: Data Visualization
 * Data can be easily visualized using ggplot2 library
 
-### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Telangana%20Weather%20Analysis%20Jan%202021-March%202022/Telangana%20Weather%20Analysis%20Jan%202021%20-%20March%202022.R)
-### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/PROJECT:%20Telangana%20Weather%20Analysis%20Jan%202021-March%202022/Telangana-Weather-Analysis-Jan-2021-March-2022.pdf)
+### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Telangana%20Weather%20Analysis%20Jan%202021-March%202022/Telangana%20Weather%20Analysis%20Jan%202021%20-%20March%202022.R)
+### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/Telangana%20Weather%20Analysis%20Jan%202021-March%202022/Telangana-Weather-Analysis-Jan-2021-March-2022.pdf)
 
 
