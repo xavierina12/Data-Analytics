@@ -1,43 +1,70 @@
 # Projects
 This repository contains all the Projects.
 
-### Analysis Projects
->1. [**Superstore Statistical Analysis (Microsoft Excel):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Superstore%20Statistical%20Analysis)  
->> * Tools: Microsoft Excel 2019 
->> * Analyzed the sales, profit, loss using the data analysis tool of Excel. 
->> * Performed descriptive statistical analysis, F-test, T-test and Annova
->> * Created reports through tables, charts, graphs 
->> * Observed covariance, correlation in the dataset.
->2. [**E-Commerce Shipping Data Analysis (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/E-Commerce%20Shipping%20Data%20Analysis) 
->> * Tools: Python 3.10.2, Jupyter Notebook
->> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
->> * Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using numpy, pandas, matplotlib, seaborn. 
->> * Data was extracted, cleansed, transformed and merged to get information. 
->> * Data was analyzed through Descriptive statistics functions and visualized through graphs. 
->3. [**Telangana Ground Water Level Analysis (Jan 2021-Feb 2022) (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Telangana%20Ground%20Water%20Level%20Analysis%20Jan%202021%20-%20Feb%202022) 
->> * Tools: Python 3.10.2, Jupyter Notebook
->> * The main objective of this project is to analyze Telangana Ground Water Level (Jan 2021-Feb 2022). 
->> * Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn. 
->> * Data was extracted, cleansed, transformed and merged to get information. 
->> * Data was analyzed through Descriptive statistics functions and visualized through graphs.
->4. [**Telangana Weather Analysis (Jan 2021-March 2022) (R):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Telangana%20Weather%20Analysis%20Jan%202021-March%202022) 
->> * Tools: R 4.1.3
->> * The main objective of this project is to analyze Telangana Weather (Jan 2021-March 2022). 
->> * Performed Exploratory Data Analysis using the libraries dplyr, sqldf, ggplot2
->> * Data was extracted, cleansed, transformed and merged to get information. 
->> * Data was analyzed through Descriptive statistics functions and visualized through graphs using ggplot2 library.
+### 1. Data Analysis Projects
+<ol>
+<li> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"><b>Superstore Statistical Analysis (Excel):</b></a></li>
+<ul>
+     <li> Tools: Microsoft Excel 2019 </li> 
+     <li>Analyzed the sales, profit, loss using the data analysis tool of Excel.</li> 
+     <li>Performed descriptive statistical analysis, F-test, T-test and Annova</li>
+     <li> Created reports through tables, charts, graphs </li>
+     <li>Observed covariance, correlation in the dataset.</li>
+     <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"> <b>View the Project</b></a></li>
+</ul> 
+</br>
 
+<li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/2.%20E-Commerce%20Shipping%20Analysis%20(Python)"><b> E-Commerce Shipping Analysis (Python):</b></a> </li>
+<ul>
+    <li>Tools: Python 3.10.2, Jupyter Notebook </li>
+    <li>The main objective of this project is to analyze the Shipping data of an E-commerce company. </li> 
+    <li> Performed Exploratory Data Analysis on the E-commerce Shipping Dataset using numpy, pandas, matplotlib, seaborn. </li>
+    <li>Data was extracted, cleansed, transformed and merged to get information. </li>
+    <li>Data was analyzed through Descriptive statistics functions and visualized through graphs.</li>
+    <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/2.%20E-Commerce%20Shipping%20Analysis%20(Python)"><b>View the Project</b></a></li>
+</ul>
+</br>
+  
+<li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/3.%20Telangana%20Groundwater%20Analysis%20(Python)"><b>Telangana Ground Water Analysis (Python): </b> </a> </li>
+<ul>
+     <li> Tools: Python 3.10.2, Jupyter Notebook</li>
+     <li>The main objective of this project is to analyze Telangana Ground Water Level (Jan 2021-Feb 2022). </li>
+     <li>Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn. </li>
+     <li>Data was extracted, cleansed, transformed and merged to get information.</li> 
+     <li>Data was analyzed through Descriptive statistics functions and visualized through graphs.</li>
+     <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/3.%20Telangana%20Groundwater%20Analysis%20(Python)"><b>View the Project</b></a></li>
+</ul>
+</br>
+
+<li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/4.%20Telangana%20Weather%20Analysis%20(R)"><b>Telangana Weather Analysis (R):</b></a></li>
+<ul>
+     <li>Tools: R 4.1.3</li>
+     <li>The main objective of this project is to analyze Telangana Weather (Jan 2021-March 2022). </li>
+     <li>Performed Exploratory Data Analysis using the libraries dplyr, sqldf, ggplot2</li>
+     <li>Data was extracted, cleansed, transformed and merged to get information. </li>
+     <li>Data was analyzed through Descriptive statistics functions and visualized through graphs using ggplot2 library.</li>
+     <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/4.%20Telangana%20Weather%20Analysis%20(R)"><b>View the Project</b></a></li>
+</ul>
+</ol>
 
 ### Minor Projects
->1. [**Random Password Generator (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Random%20Password%20Generator) 
->> * Tools: Python 3.10.2, Jupyter Notebook
->> * A simple python project to generate 'n' length random password using Random and String modules. 
->2. [**Hospital Management System (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Hospital%20Management%20System) 
->> * Tools: Python 3.10.2, Jupyter Notebook
->> * The project has been designed in python to display the information regarding the doctor’s availability, fees, timings of 10 different departments of a hospital. 
->> * The admin can book an appointment for the patient.
->> * The user can also view the appointment details. 
->3. [**Calculator (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Calculator) 
->> * Tools: Python 3.10.2, Jupyter Notebook
->> * A simple Calculator using the tkinter module of Python. 
->> * Calculates addition, subtraction, multiplication and division of two numbers
+<ol>
+<li> <b> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/1.%20Random%20Password%20Generator%20(Python)"> Random Password Generator (Python):</b></a></li>
+<ul>
+    <li>Tools: Python 3.10.2, Jupyter Notebook</li>
+    <li>A simple python project to generate 'n' length random password using Random and String modules. </li>
+    <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/1.%20Random%20Password%20Generator%20(Python)"><b>View the Project</b></a></li>
+</ul>
+</br>
+
+ <li> <b> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/2.%20Hospital%20Management%20System%20(Python)"> Hospital Management System (Python):</b></a></li> 
+<ul>     
+     <li>Tools: Python 3.10.2, Jupyter Notebook</li> 
+     <li>The project has been designed in python to display the information regarding the doctor’s availability, fees, timings of 10 different departments of a hospital.</li> 
+     <li>The admin can book an appointment for the patient.</li> 
+     <li>he user can also view the appointment details.</li>  
+     <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/2.%20Hospital%20Management%20System%20(Python)"><b>View the Project</b></a></li>
+</ul>
+</ol>
+
+
