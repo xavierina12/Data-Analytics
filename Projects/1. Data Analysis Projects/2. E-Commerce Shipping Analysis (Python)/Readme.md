@@ -30,4 +30,4 @@ Numpy, Pandas, Matplotlib, Seaborn
 * Data can be easily visualized using matplotlib and seaborn libraries
 * Data was visualized for this dataset through lineplot(), barplot(), catplot(), stripplot(), heatmap()
 ### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/1.%20Data%20Analysis%20Projects/2.%20E-Commerce%20Shipping%20Analysis%20(Python)/E-COMMERCE%20SHIPPING%20DATA%20ANALYSIS.ipynb)
-### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/1.%20Data%20Analysis%20Projects/2.%20E-Commerce%20Shipping%20Analysis%20(Python)/Report.pdf)
+### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/1.%20Data%20Analysis%20Projects/2.%20E-Commerce%20Shipping%20Analysis%20(Python)/Report.pdf) 
