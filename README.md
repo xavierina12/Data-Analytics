@@ -2,12 +2,14 @@
 This repository contains all the Assignments and Projects.
 
 ### 1. Data Analysis Projects
->1. [**Superstore Statistical Analysis (Microsoft Excel):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Superstore%20Statistical%20Analysis)  
+<ol>
+<li>1. [**Superstore Statistical Analysis (Microsoft Excel):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)) </li>
 >> * Tools: Microsoft Excel 2019 
 >> * Analyzed the sales, profit, loss using the data analysis tool of Excel. 
 >> * Performed descriptive statistical analysis, F-test, T-test and Annova
 >> * Created reports through tables, charts, graphs 
 >> * Observed covariance, correlation in the dataset.
+>> [####  View the Project](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel))
 >2. [**E-Commerce Shipping Data Analysis (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/E-Commerce%20Shipping%20Data%20Analysis) 
 >> * Tools: Python 3.10.2, Jupyter Notebook
 >> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
@@ -26,7 +28,7 @@ This repository contains all the Assignments and Projects.
 >> * Performed Exploratory Data Analysis using the libraries dplyr, sqldf, ggplot2
 >> * Data was extracted, cleansed, transformed and merged to get information. 
 >> * Data was analyzed through Descriptive statistics functions and visualized through graphs using ggplot2 library.
-
+</ol>
 
 ### Minor Projects
 >1. [**Random Password Generator (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Random%20Password%20Generator) 
