@@ -34,7 +34,8 @@ This repository contains all the Assignments and Projects.
      <li>Data was analyzed through Descriptive statistics functions and visualized through graphs.</li>
      <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/3.%20Telangana%20Groundwater%20Analysis%20(Python)"><b>View the Project</b></a></li>
 </ul>
-  
+</br>
+
 <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/4.%20Telangana%20Weather%20Analysis%20(R)"><b>Telangana Weather Analysis (R):</b></a></li>
 <ul>
      <li>Tools: R 4.1.3</li>
@@ -45,16 +46,18 @@ This repository contains all the Assignments and Projects.
      <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/4.%20Telangana%20Weather%20Analysis%20(R)"><b>View the Project</b></a></li>
 </ul>
 </ol>
+</br>
 
 ### Minor Projects
 <ol>
-
-     <li> <b> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/1.%20Random%20Password%20Generator%20(Python)"> Random Password Generator (Python):</b></a></li>
+<li> <b> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/1.%20Random%20Password%20Generator%20(Python)"> Random Password Generator (Python):</b></a></li>
 <ul>
     <li>Tools: Python 3.10.2, Jupyter Notebook</li>
     <li>A simple python project to generate 'n' length random password using Random and String modules. </li>
     <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/1.%20Random%20Password%20Generator%20(Python)"><b>View the Project</b></a></li>
 </ul>
+</br>
+
  <li> <b> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/2.%20Hospital%20Management%20System%20(Python)"> Hospital Management System (Python):</b></a></li> 
 <ul>     
      <li>Tools: Python 3.10.2, Jupyter Notebook</li> 
@@ -64,6 +67,7 @@ This repository contains all the Assignments and Projects.
      <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/2.%20Hospital%20Management%20System%20(Python)"><b>View the Project</b></a></li>
 </ul>
 </ol>
+</br>
 
 ## Connect with me on these platforms:
 * Linkedin: https://www.linkedin.com/in/xavierina-arokia
