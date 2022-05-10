@@ -46,7 +46,6 @@ This repository contains all the Assignments and Projects.
      <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/4.%20Telangana%20Weather%20Analysis%20(R)"><b>View the Project</b></a></li>
 </ul>
 </ol>
-</br>
 
 ### Minor Projects
 <ol>
@@ -67,7 +66,6 @@ This repository contains all the Assignments and Projects.
      <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/2.%20Hospital%20Management%20System%20(Python)"><b>View the Project</b></a></li>
 </ul>
 </ol>
-</br>
 
 ## Connect with me on these platforms:
 * Linkedin: https://www.linkedin.com/in/xavierina-arokia
