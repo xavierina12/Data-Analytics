@@ -13,6 +13,7 @@ This repository contains all the Assignments and Projects.
 <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)">View the Project</a></li>
   </ul>
   
+  
   <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/2.%20E-Commerce%20Shipping%20Analysis%20(Python)"> E-Commerce Shipping Analysis (Python):</a> </li>
 >> * Tools: Python 3.10.2, Jupyter Notebook
 >> * The main objective of this project is to analyze the Shipping data of an E-commerce company. 
