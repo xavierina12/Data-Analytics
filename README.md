@@ -3,14 +3,14 @@ This repository contains all the Assignments and Projects.
 
 ### 1. Data Analysis Projects
 <ol>
-<li> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)">Superstore Statistical Analysis (Microsoft Excel):</a></li>
+<li> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)" target="_blank" rel="noopener noreferrer">Superstore Statistical Analysis (Microsoft Excel):</a></li>
   <ul>
     <li> Tools: Microsoft Excel 2019 </li> 
 <li>Analyzed the sales, profit, loss using the data analysis tool of Excel.</li> 
 <li>Performed descriptive statistical analysis, F-test, T-test and Annova</li>
 <li> Created reports through tables, charts, graphs </li>
 <li>Observed covariance, correlation in the dataset.</li>
-<li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)">View the Project</a></li>
+<li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)" target="_blank" rel="noopener noreferrer">View the Project</a></li>
   </ul>
 >2. [**E-Commerce Shipping Data Analysis (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/E-Commerce%20Shipping%20Data%20Analysis) 
 >> * Tools: Python 3.10.2, Jupyter Notebook
