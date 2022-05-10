@@ -67,7 +67,7 @@ This repository contains all the Assignments and Projects.
 </ul>
 </ol>
 
-## Connect with me on these platforms:
+## Contact Details:
 * Linkedin: https://www.linkedin.com/in/xavierina-arokia
 * Gmail: xavierina12@gmail.com
 
