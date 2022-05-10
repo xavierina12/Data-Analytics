@@ -3,7 +3,7 @@ This repository contains all the Assignments and Projects.
 
 ### 1. Data Analysis Projects
 <ol>
-<li>1. [**Superstore Statistical Analysis (Microsoft Excel):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)) </li>
+<li> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"/>[**Superstore Statistical Analysis (Microsoft Excel):**]</li>
 >> * Tools: Microsoft Excel 2019 
 >> * Analyzed the sales, profit, loss using the data analysis tool of Excel. 
 >> * Performed descriptive statistical analysis, F-test, T-test and Annova
