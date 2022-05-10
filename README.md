@@ -37,12 +37,6 @@ This repository contains all the Assignments and Projects.
 >> * The project has been designed in python to display the information regarding the doctor’s availability, fees, timings of 10 different departments of a hospital. 
 >> * The admin can book an appointment for the patient.
 >> * The user can also view the appointment details. 
->3. [**Calculator (Python):**](https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Calculator) 
->> * Tools: Python 3.10.2, Jupyter Notebook
->> * A simple Calculator using the tkinter module of Python. 
->> * Calculates addition, subtraction, multiplication and division of two numbers
-
-
 
 ## Connect with me on these platforms:
 * Linkedin: https://www.linkedin.com/in/xavierina-arokia
