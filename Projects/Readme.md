@@ -10,7 +10,7 @@ This repository contains all the Projects.
      <li>Performed descriptive statistical analysis, F-test, T-test and Annova</li>
      <li> Created reports through tables, charts, graphs </li>
      <li>Observed covariance, correlation in the dataset.</li>
-     <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"> <b>View the Project</b></a></li>
+     <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"> <b>Download the File</b></a></li>
 </ul> 
 </br>
 
