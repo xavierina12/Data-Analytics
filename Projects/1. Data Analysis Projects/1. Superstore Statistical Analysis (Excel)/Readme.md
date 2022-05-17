@@ -24,7 +24,7 @@ Microsoft Excel 2019
 * Pivot table is a powerful tool to calculate, summarize, and analyze data.
 * Select Insert Tab and Pivot table. 
 ### Task 6: Tests
-* For F-Test, T-Test and Annova Test, we require Null and Alternate Hypothesis
+* For F-Test, T-Test and Anova Test, we require Null and Alternate Hypothesis
 * Select Data Tab and Data Analysis
 * Select the Test
 * Select the input and output range
