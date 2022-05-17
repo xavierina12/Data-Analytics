@@ -20,7 +20,10 @@ Microsoft Excel 2019
 ### Task 4: Reports
 * Data can be easily visualized in Excel through Charts, Bar graphs
 * Select Insert Tab and Charts
-### Task 5: Tests
+### Task 5: Pivot Tables
+* Pivot table is a powerful tool to calculate, summarize, and analyze data.
+* Select Insert Tab and Pivot table. 
+### Task 6: Tests
 * For F-Test, T-Test and Annova Test, we require Null and Alternate Hypothesis
 * Select Data Tab and Data Analysis
 * Select the Test
