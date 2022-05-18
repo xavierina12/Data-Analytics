@@ -38,6 +38,6 @@ Microsoft Excel 2019
 
 
 #### [Download the File](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)/Project1-%20Statistical%20Analysis.xlsx)
-
+#### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)/Report.pdf)
 
 
