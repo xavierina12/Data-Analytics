@@ -1,2 +1,0 @@
-Department_Name/Patient_Name/Age/Phone_Number/Home_Address/Time_slot/Appointment_id
-Outpatient(OPD)/Rina/30/123123123/India/9/3200
