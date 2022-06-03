@@ -1,5 +1,6 @@
 # Exploratory Data Analysis on the Telangana Weather Data 
 # (Jan 2021 - March 2022)
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/1.%20Data%20Analysis%20Projects/4.%20Telangana%20Weather%20Analysis%20(R)/telangana.png)
 ## Objective:
 Analyze the Telangana Weather (Jan 2021-March 2022).
 ## Tools: 
