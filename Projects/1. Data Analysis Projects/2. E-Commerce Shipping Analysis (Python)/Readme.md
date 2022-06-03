@@ -1,4 +1,5 @@
 # Exploratory Data Analysis on the E-commerce Shipping Data 
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/1.%20Data%20Analysis%20Projects/2.%20E-Commerce%20Shipping%20Analysis%20(Python)/logistics.png)
 ## Objective:
 Analyze the Shipping data of an E-commerce company
 ## Tools: 
