@@ -1,4 +1,5 @@
 # Exploratory Data Analysis on the Telangana Ground Water Level Data (Jan 2021 - Feb 2022)
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/1.%20Data%20Analysis%20Projects/3.%20Telangana%20Groundwater%20Analysis%20(Python)/telangana.png)
 ## Objective:
 Analyze the Telangana Ground Water Level (Jan 2021-Feb 2022).
 ## Tools: 
