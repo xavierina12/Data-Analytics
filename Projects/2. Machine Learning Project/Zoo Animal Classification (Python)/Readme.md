@@ -7,6 +7,7 @@ https://www.kaggle.com/datasets/uciml/zoo-animal-classification
 ## Description : 
 There are 16 Variables that describes the features of the Animals.
 
+
 ![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/Data.PNG)
 
 ## Tasks:
