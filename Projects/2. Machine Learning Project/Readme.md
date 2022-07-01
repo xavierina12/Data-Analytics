@@ -1,5 +1,5 @@
 ## Zoo Animal Classification (Python) 
-#### Tools: Python 3.10.2, Jupyter Notebook </li>
+#### Tools: Python 3.10.2, Jupyter Notebook
 #### PROBLEM STATEMENT : Predict the Classification of the Animals, Based upon the Variables.
 <ul>
 <li>There are 16 Variables that describes the features of the Animals.</li>
