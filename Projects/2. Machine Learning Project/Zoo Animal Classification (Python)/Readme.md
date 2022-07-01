@@ -14,8 +14,8 @@ There are 16 Variables that describes the features of the Animals.
 * Import the libraries: NumPy, Pandas, Matplotlib and Seaborn  
 * Load the dataset using pandas.
 * Explore the dataframe using the shape, info() functions.
-* **Data Wrangling:** Merge the columns using groupby 
 * **Data Cleansing:** Check the null values and replace it.
+* **Data Wrangling:** Merge the columns using groupby 
 * **Descriptive Statistics:**
     * describe() is used to find the descriptive statistics
     * corr() is used to find the correlation
