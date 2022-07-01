@@ -41,6 +41,7 @@ There are 16 Variables that describes the features of the Animals.
 * Print the Classification Report
 * Plot the Confusion Matrix
 * Plot Decision Tree 
+
 ![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/decision%20tree.png)
 
 ## Conclusion
