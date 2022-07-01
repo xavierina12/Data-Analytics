@@ -37,6 +37,7 @@ There are 16 Variables that describes the features of the Animals.
 ### Task 3: Model Selection
 * Select the model that has the best accuracy and less time.
 * The model selected for the Zoo Dataset is **DecisionTreeClassifier()**
+* **Accuracy:** 100%
 * Print the Classification Report
 * Plot the Confusion Matrix
 * Plot Decision Tree 
