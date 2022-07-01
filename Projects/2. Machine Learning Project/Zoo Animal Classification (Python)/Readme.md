@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/uciml/zoo-animal-classification
 There are 16 Variables that describes the features of the Animals.
 
 
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/Data.PNG)
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/Dataset%20Attributes.png)
 
 ## Tasks
 ### Task 1: Data Exploration
@@ -32,7 +32,7 @@ There are 16 Variables that describes the features of the Animals.
 *  **Predict the values** model.predict(x_test)
 * Scores for the models selected for Zoo Animal Dataset
 
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/model.PNG)
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/Visuals.png)
 
 ### Task 3: Model Selection
 * Select the model that has the best accuracy and less time.
