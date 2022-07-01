@@ -1,4 +1,4 @@
-### <center> Zoo Animal Classification (Python) </center>
+##  Zoo Animal Classification (Python) 
 #### Tools: Python 3.10.2, Jupyter Notebook </li>
 #### PROBLEM STATEMENT : Predict the Classification of the Animals, Based upon the Variables.
 <ul>
