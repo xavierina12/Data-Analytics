@@ -31,7 +31,7 @@ There are 16 Variables that describes the features of the Animals.
 * **Evaluate the model:** model.score(x_test,y_test)
 *  **Predict the values** model.predict(x_test)
 * Scores for the models selected for Zoo Animal Dataset
-*
+
 ![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/model.PNG)
 
 ### Task 3: Model Selection
