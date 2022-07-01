@@ -64,6 +64,7 @@ This repository contains all the Projects.
              <li>Split the data by creating training and test dataset.</li> 
              <li>Then evaluate the performance of various models.</li> 
              <li>Select the best model.</li> 
+             <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)"><b>View the Project</b></a></li>
 
 
 </ul>
