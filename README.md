@@ -3,7 +3,7 @@ This repository contains all the Assignments and Projects.
 
 
 # <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects"> Projects  </a>
-This repository contains all the Projects.
+Projects repository contains all the Projects.
  
 
 ### <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects"> 1. Data Analysis Projects  </a>
