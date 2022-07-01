@@ -1,16 +1,21 @@
 # Data-Analytics-Edubridge Institute
 This repository contains all the Assignments and Projects.
 
-### 1. Data Analysis Projects
+
+# <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects"> Projects  </a>
+This repository contains all the Projects.
+ 
+
+### <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects"> 1. Data Analysis Projects  </a>
 <ol>
 <li> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"><b>Superstore Statistical Analysis (Excel):</b></a></li>
 <ul>
      <li> Tools: Microsoft Excel 2019 </li> 
      <li>Analyzed the sales, profit, loss using the data analysis tool of Excel.</li> 
-     <li>Performed descriptive statistical analysis, F-test, T-test and Annova</li>
+     <li>Performed descriptive statistical analysis, F-test, T-test and Anova</li>
      <li> Created reports through tables, charts, graphs </li>
      <li>Observed covariance, correlation in the dataset.</li>
-     <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"> <b>View the Project</b></a></li>
+     <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"> <b>Download the File</b></a></li>
 </ul> 
 </br>
 
@@ -47,7 +52,29 @@ This repository contains all the Assignments and Projects.
 </ul>
 </ol>
 
-### Minor Projects
+###  <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/2.%20Machine%20Learning%20Project"> 2. Machine Learning Project </a>
+<a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)">
+ <ul>
+<b>Zoo Animal Classification (Python):</b></a>
+       <ul>
+            <li>Tools: Python 3.10.2, Jupyter Notebook </li>
+            <li>PROBLEM STATEMENT : Predict the Classification of the Animals, Based upon the Variables.</li>
+             <li>There are 16 Variables that describes the features of the Animals.</li>
+             <li>Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn. </li>
+            <li>Data was extracted, cleansed, transformed and merged to get information.</li> 
+            <li>Data was analyzed through Descriptive statistics functions and visualized through graphs.</li>
+             <li>Build a classification model by taking features and target values.</li> 
+             <li>Split the data by creating training and test dataset.</li> 
+             <li>Then evaluate the performance of various models.</li> 
+             <li>Select the best model.</li> 
+             <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)"><b>View the Project</b></a></li>
+
+
+</ul>
+</ul>
+
+
+### <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects"> Minor Projects  </a>
 <ol>
 <li> <b> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/1.%20Random%20Password%20Generator%20(Python)"> Random Password Generator (Python):</b></a></li>
 <ul>
@@ -66,6 +93,9 @@ This repository contains all the Assignments and Projects.
      <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/2.%20Hospital%20Management%20System%20(Python)"><b>View the Project</b></a></li>
 </ul>
 </ol>
+
+
+
 
 ## Contact Details:
 * Gmail: xavierina12@gmail.com
