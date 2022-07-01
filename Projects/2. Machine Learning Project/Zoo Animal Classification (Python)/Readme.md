@@ -51,16 +51,15 @@ There are 16 Variables that describes the features of the Animals.
 * Easy visualization
 * Automatic Feature selection: Irrelevant features won’t affect decision trees.
 
-
 **Disadvantages:**
-*Prone to overfitting. Good performance on the training data, poor generalization to new data.
-*Sensitive to data. If data changes slightly, the outcomes can change to a very large extent.
-*Higher time required to train decision trees of large datasets.
+* Prone to overfitting. Good performance on the training data, poor generalization to new data.
+* Sensitive to data. If data changes slightly, the outcomes can change to a very large extent.
+* Higher time required to train decision trees of large datasets.
 
 ### Applications:
 Identifying buyers for products, finding strategy that can maximize the profit, finding strategy for cost minimization, which features are most important to attract and retain customers (is it the frequency of shopping, is it the frequent discounts, is it the product mix), fault diagnosis in machines (keep measuring pressure, vibrations and other measures and predict before a fault occurs) and many other applications.
 
-### The Best Machine learning models for the Zoo dataset are DecisionTreeClassifier, RandomForestClassifier, SVC and GradientBoostingClassifier.
+The Best Machine learning models for the Zoo dataset are **DecisionTreeClassifier, RandomForestClassifier, SVC and GradientBoostingClassifier.**
 
 ### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Zoo%20Animal%20Classification.ipynb)
 ### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Report.pdf) 
