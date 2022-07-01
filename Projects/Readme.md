@@ -1,5 +1,5 @@
 
-# <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects"> Projects  </a>
+#  Projects 
 This repository contains all the Projects.
  
 
