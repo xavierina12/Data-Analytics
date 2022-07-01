@@ -26,11 +26,21 @@ There are 16 Variables that describes the features of the Animals.
 ### Task 2: Build the Model
 * Select the features and target values
 * Apply the train test split method
-* Select a few classification models like DecisionTreeClassifier(),RandomForestClassifier(), SVC(kernel='linear'),GaussianNB(),GradientBoostingClassifier() from sklearn
-* Calculate Score and Time for each Model
+* Select a few classification models like DecisionTreeClassifier(), RandomForestClassifier(), SVC(kernel='linear'), GaussianNB(), GradientBoostingClassifier() from sklearn
+* **Build the model:** model.fit(x_train,y_train)
+* **Evaluate the model:** model.score(x_test,y_test)
+*  **Predict the values** model.predict(x_test)
+* Scores for the models selected for Zoo Animal Dataset
+*
+![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/model.PNG)
 
 ### Task 3: Model Selection
-* Select the model that has the best accuracy and less time. 
+* Select the model that has the best accuracy and less time.
+* The model selected for the Zoo Dataset is **DecisionTreeClassifier()**
+* Print the Classification Report
+* Plot the Confusion Matrix
+* Plot Decision Tree 
+![]()
 
 
 ### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Zoo%20Animal%20Classification.ipynb)
