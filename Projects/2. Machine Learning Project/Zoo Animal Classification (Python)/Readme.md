@@ -17,9 +17,9 @@ There are 16 Variables that describes the features of the Animals.
 * **Data Wrangling:** Merge the columns using groupby 
 * **Data Cleansing:** Check the null values and replace it.
 * **Descriptive Statistics:**
-* describe() is used to find the descriptive statistics
-* corr() is used to find the correlation
-* cov() is used to find the covariance
+    * describe() is used to find the descriptive statistics
+    * corr() is used to find the correlation
+    * cov() is used to find the covariance
 * **Data Visualization:** Data can be easily visualized using matplotlib and seaborn libraries
 
 ### Task 2: Data Exploration
