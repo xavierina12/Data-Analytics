@@ -1,6 +1,5 @@
 # Zoo Animal Classification (Machine Learning)
-### TOOLS : 
-Python 3.10.2, Jupyter Notebook
+### TOOLS : Python 3.10.2, Jupyter Notebook
 ### DATASET REFERENCE :
 https://www.kaggle.com/datasets/uciml/zoo-animal-classification
 
