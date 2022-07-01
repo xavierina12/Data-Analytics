@@ -1,7 +1,9 @@
-# Projects
+<a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects">
+# Projects </a>
 This repository contains all the Projects.
-
-### 1. Data Analysis Projects
+ 
+<a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects">
+### 1. Data Analysis Projects  </a>
 <ol>
 <li> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"><b>Superstore Statistical Analysis (Excel):</b></a></li>
 <ul>
@@ -46,10 +48,13 @@ This repository contains all the Projects.
      <li><a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/4.%20Telangana%20Weather%20Analysis%20(R)"><b>View the Project</b></a></li>
 </ul>
 </ol>
-<a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)">
+<a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/2.%20Machine%20Learning%20Project">
 ### 2. Machine Learning Project </a>
+<a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)">
 <b>Zoo Animal Classification (Python):</b></a>
-### Minor Projects
+
+<a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects">
+### Minor Projects  </a>
 <ol>
 <li> <b> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects/1.%20Random%20Password%20Generator%20(Python)"> Random Password Generator (Python):</b></a></li>
 <ul>
