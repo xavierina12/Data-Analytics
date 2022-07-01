@@ -66,7 +66,7 @@ This repository contains all the Projects.
              <li>Select the best model.</li> 
 
 
-       </ul>
+</ul>
 </ul>
 
 
