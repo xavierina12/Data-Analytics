@@ -10,7 +10,7 @@ There are 16 Variables that describes the features of the Animals.
 
 ![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/Data.PNG)
 
-## Tasks:
+## Tasks
 ### Task 1: Data Exploration
 * Import the libraries: NumPy, Pandas, Matplotlib and Seaborn  
 * Load the dataset using pandas.
@@ -23,10 +23,18 @@ There are 16 Variables that describes the features of the Animals.
     * cov() is used to find the covariance
 * **Data Visualization:** Data can be easily visualized using matplotlib and seaborn libraries
 
-### Task 2: Data Exploration
+### Task 2: Build the Model
+* Select the features and target values
+* Apply the train test split method
+* Select a few classification models like DecisionTreeClassifier(),RandomForestClassifier(), SVC(kernel='linear'),GaussianNB(),GradientBoostingClassifier() from sklearn
+* Calculate Score and Time for each Model
 
-### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/1.%20Data%20Analysis%20Projects/2.%20E-Commerce%20Shipping%20Analysis%20(Python)/E-COMMERCE%20SHIPPING%20DATA%20ANALYSIS.ipynb)
-### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/1.%20Data%20Analysis%20Projects/2.%20E-Commerce%20Shipping%20Analysis%20(Python)/Report.pdf) 
+### Task 3: Model Selection
+* Select the model that has the best accuracy and less time. 
+
+
+### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Zoo%20Animal%20Classification.ipynb)
+### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Report.pdf) 
 
 
 
