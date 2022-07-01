@@ -51,6 +51,7 @@ This repository contains all the Projects.
 
 ###  <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/2.%20Machine%20Learning%20Project"> 2. Machine Learning Project </a>
 <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)">
+ <ul>
 <b>Zoo Animal Classification (Python):</b></a>
        <ul>
             <li>Tools: Python 3.10.2, Jupyter Notebook </li>
@@ -66,7 +67,7 @@ This repository contains all the Projects.
 
 
        </ul>
-
+</ul>
 
 
 ### <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/Minor%20Projects"> Minor Projects  </a>
