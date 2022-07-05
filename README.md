@@ -10,7 +10,7 @@ Projects repository contains Data Analysis Projects.
 <ol>
 <li> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"><b>Superstore Statistical Analysis (Excel):</b></a></li>
 <ul>
-     <li><b>  Technologies Used: </b> Microsoft Excel 2019 </li>
+ <li><b>  Technologies Used: </b> Microsoft Excel 2019 </li>
      <li>Analyzed the sales, profit, loss using the data analysis tool of Excel.</li> 
      <li>Performed descriptive statistical analysis, F-test, T-test and Anova</li>
      <li> Created reports through tables, charts, graphs </li>
