@@ -81,7 +81,7 @@ This repository contains the Machine Learning Project.
  <ul>
 <b>Zoo Animal Classification (Python):</b></a>
        <ul>
-            <li>Tools: Python 3.10.2, Jupyter Notebook </li>
+            <li>**Technologies Used:** Python 3.10.2, Jupyter Notebook </li>
             <li>PROBLEM STATEMENT : Predict the Classification of the Animals, Based upon the Variables.</li>
              <li>There are 16 Variables that describes the features of the Animals.</li>
              <li>Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn. </li>
