@@ -1,5 +1,5 @@
 # Data-Analytics-Edubridge Institute
-This repository contains all the Assignments and Projects.
+This repository contains all the Assignments and Data Analysis Projects.
 
 
 # <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects"> Projects  </a>
