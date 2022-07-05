@@ -74,10 +74,11 @@ Projects repository contains Data Analysis Projects.
 </ol>
 
  
-# <a href="https://github.com/xavierina12/Zoo-Animal-Classification--ML-Project"> Zoo-Animal-Classification--ML-Project (Repository)  </a>
+# <a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project"> Zoo-Animal-Classification-Machine-Learning-Project
+ </a>
 This repository contains the Machine Learning Project.
 
-<a href="https://github.com/xavierina12/Zoo-Animal-Classification--ML-Project">
+<a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project">
  <ul>
 <b>Zoo Animal Classification (Python):</b></a>
        <ul>
@@ -91,7 +92,7 @@ This repository contains the Machine Learning Project.
              <li>Split the data by creating training and test dataset.</li> 
              <li>Then evaluate the performance of various models.</li> 
              <li>Select the best model.</li> 
-             <li><a href="https://github.com/xavierina12/Zoo-Animal-Classification--ML-Project"><b>View the Project</b></a></li>
+             <li><a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project"><b>View the Project</b></a></li>
 
 
 </ul>
