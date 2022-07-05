@@ -74,7 +74,7 @@ Projects repository contains Data Analysis Projects.
 </ol>
 
  
-# <a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project"> Zoo-Animal-Classification-Machine-Learning-Project
+# <a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project"> Zoo-Animal-Classification-Machine-Learning-Project (Repository)
  </a>
 <ul>
 <li> <b> Technologies Used: </b> Python 3.10.2, Jupyter Notebook </li>
