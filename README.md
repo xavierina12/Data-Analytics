@@ -74,7 +74,7 @@ Projects repository contains Data Analysis Projects.
 </ol>
 
  
-# <a href="https://github.com/xavierina12/Zoo-Animal-Classification--ML-Project"> Zoo-Animal-Classification--ML-Project  </a>
+# <a href="https://github.com/xavierina12/Zoo-Animal-Classification--ML-Project"> Zoo-Animal-Classification--ML-Project (Repository)  </a>
 This repository contains the Machine Learning Project.
 
 <a href="https://github.com/xavierina12/Zoo-Animal-Classification--ML-Project">
