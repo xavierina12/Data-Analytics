@@ -78,9 +78,7 @@ Projects repository contains Data Analysis Projects.
  </a>
 This repository contains the Machine Learning Project.
 
-<a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project">
- <ul>
-<b>Zoo Animal Classification (Python):</b></a>
+## <a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project"> Zoo Animal Classification (Python):</a>
        <ul>
         <li> <b> Technologies Used: </b> Python 3.10.2, Jupyter Notebook </li>
             <li><b>PROBLEM STATEMENT :</b> Predict the Classification of the Animals, Based upon the Variables.</li>
@@ -93,10 +91,8 @@ This repository contains the Machine Learning Project.
              <li>Then evaluate the performance of various models.</li> 
              <li>Select the best model.</li> 
              <li><a href="https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project"><b>View the Project</b></a></li>
-
-
 </ul>
-</ul>
+
 
 
 
