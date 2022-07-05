@@ -3,7 +3,7 @@ This repository contains all the Assignments and Projects.
 
 
 # <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects"> Projects  </a>
-Projects repository contains all the Projects.
+Projects repository contains Data Analysis Projects.
  
 
 ### <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects"> 1. Data Analysis Projects  </a>
@@ -73,8 +73,8 @@ Projects repository contains all the Projects.
 </ul>
 </ol>
 
- <a href="https://github.com/xavierina12/Zoo-Animal-Classification--ML-Project">
-# Zoo-Animal-Classification--ML-Project  </a>
+ 
+# <a href="https://github.com/xavierina12/Zoo-Animal-Classification--ML-Project"> Zoo-Animal-Classification--ML-Project  </a>
 This repository contains the Machine Learning Project.
 
 <a href="https://github.com/xavierina12/Zoo-Animal-Classification--ML-Project">
