@@ -1,4 +1,4 @@
-# 1. Data Analysis Projects
+# Data Analysis Projects
 <ol>
 <li> <a href="https://github.com/xavierina12/Data-Analytics/tree/main/Projects/1.%20Data%20Analysis%20Projects/1.%20Superstore%20Statistical%20Analysis%20(Excel)"><b>Superstore Statistical Analysis (Excel):</b></a></li>
 <ul>
